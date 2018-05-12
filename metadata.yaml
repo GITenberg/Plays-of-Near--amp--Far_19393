@@ -1,0 +1,35 @@
+_repo: Plays-of-Near--amp--Far_19393
+_version: 0.1.0
+alternative_title: Plays of Near and Far
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PR'
+tableOfContents: "The Compromise of the King of the Golden Isles\r\nThe Flight of\
+  \ the Queen\r\nCheezo\r\nA Good Bargain\r\nIf Shakespeare Lived To-day\r\nFame and\
+  \ the Poet."
+title: Plays of Near & Far
+url: http://www.gutenberg.org/ebooks/19393
