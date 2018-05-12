@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2685
     wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19393#Plays-of-Near--amp--Far
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2006-09-27'
 gutenberg_type: Text
